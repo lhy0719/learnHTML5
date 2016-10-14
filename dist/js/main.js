@@ -1,0 +1,2 @@
+webpackJsonp([1,2],[function(o,e,n){"use strict";function t(o){return o&&o.__esModule?o:{"default":o}}var r=n(!function(){var o=new Error('Cannot find module "./Button"');throw o.code="MODULE_NOT_FOUND",o}()),u=t(r),d=new u["default"]("google.com");d.render("a"),$("body").html("Hello HTML5!!!!!!")}]);
+//# sourceMappingURL=main.js.map
